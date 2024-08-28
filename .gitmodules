@@ -1,0 +1,7 @@
+[submodule "joelwallbergblog/public"]
+	path = joelwallbergblog/public
+	url = git@github.com:joelwallberg/joelwallberg.github.io.git
+	branch = main
+[submodule "joelwallbergblog/themes/hextra"]
+	path = joelwallbergblog/themes/hextra
+	url = git@github.com:imfing/hextra.git
